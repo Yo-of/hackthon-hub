@@ -24,7 +24,7 @@
 The code in this repository is licensed under the **GNU Affero General Public License v3 (AGPLv3)**.
 This means it is open-source, but **commercial use is prohibited** without permission.
 The **documentation and guides** are licensed under **Creative Commons Attribution-NonCommercial (CC BY-NC 4.0)**.
-For more details, check the [LICENSE] (code) and [LICENSE-content] (content) files.
+For more details, check the [LICENSE](LICENSE) (code) and [LICENSE-content](LICENSE-content) (content) files.
 
 ## 🚀 Contributing
 We welcome contributions! If you have ideas, bug fixes, or improvements, feel free to submit a pull request. Check out the Contributing Guide for more details.

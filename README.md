@@ -1,4 +1,4 @@
-# 🚀 Hackathon Hub
+## 🚀 Hackathon Hub
 Hackathon Hub is an open-source platform designed to help teenagers organize, discover, and participate in hackathons. Whether you're an organizer looking for resources or a participant searching for the next big event, this platform provides everything you need to engage with the hackathon community.
 
 # 🌟 Features

@@ -1,4 +1,4 @@
-#Hackathon Hub
+# Hackathon Hub
 ## 📝 License  
 
 - The **code** in this repository is licensed under the **GNU Affero General Public License v3 (AGPLv3)**.  

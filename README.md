@@ -3,8 +3,11 @@
 
 ## 🌟 Features
 ✅ **Discover Hackathons** – Find upcoming hackathons with an interactive map and filters.
+
 ✅ **Organize Your Own** – Step-by-step guides, templates, and tools to set up your event.
+
 ✅ **Community Forum** – Connect with other hackers, form teams, and share experiences.
+
 ✅ **Resources & Tools** – Coding tutorials, pitch tips, and rapid prototyping techniques.
 
 ## 🛠 Tech Stack

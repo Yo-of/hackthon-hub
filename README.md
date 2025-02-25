@@ -12,9 +12,13 @@
 
 ## 🛠 Tech Stack
 **Frontend:** React.js / Next.js + Tailwind CSS
+
 **Backend:** Node.js / Express or Django
+
 **Database:** Firebase / PostgreSQL
+
 **Auth:** OAuth (Google, GitHub)
+
 **Maps & Notifications:** Leaflet.js, Web Push API
 ## 📜 License
 The code in this repository is licensed under the **GNU Affero General Public License v3 (AGPLv3)**.

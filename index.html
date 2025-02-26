@@ -9,26 +9,39 @@
 <body>
     <!-- Navbar -->
      <nav class="navbar">
-        <div class="container">
-            <div class="logo">
-                <a href="index.html">Hackathon Hub</a>
-            </div>
-            <div class="menu">
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                </ul>
-            </div>
+        <div class="menu">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
         </div>    
-
-
-
-
-
-
-
-
+    </nav>
+    <!-- End Navbar -->
+    <!-- Home Section -->
+    <section class="home" id="home">
+        <div class="container">
+            <div class="home-content">
+                <div class="text">
+                    <h1>Find Your Next Hackathon</h1>
+                    <p>Join the world's largest online hackathon community</p>
+                    <a href="hackathons.html" class="btn">View Hackathons</a>
+                </div>
+                <div class="image">
+                    <img src="images/home-img.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Home Section -->
+    <input type="email" id="email" placeholder="Enter Email">
+    <input type="password" id="password" placeholder="Enter Password">
+    <button onclick="registerUser(email.value, password.value)">Sign Up</button>
+    <button onclick="loginUser(email.value, password.value)">Log In</button>
+    
+    
+    
+    <script src="firebase.js" type="module"></script>
     <script src="script.js"></script>
 </body>
 </html>

@@ -50,6 +50,7 @@ body {
 
 .navbar .menu ul li {
     margin-left: 25px;
+    padding: 5px;
 }
 
 .navbar .menu ul li a {
@@ -57,7 +58,7 @@ body {
     text-decoration: none;
     font-size: 18px;
     transition: color 0.3s;
-    transition: font-size 0.2s ease, text-decoration 0.2s ease, font-weight 0.2s ease;
+    transition: font-size 0.2s ease, text-decoration 0.2s ease;
 }
 
 .navbar .menu ul li a:hover {
@@ -65,7 +66,7 @@ body {
     font-size: 19px;
     text-decoration: underline;
     font-weight: bold;
-    transition: font-size 0.2s ease, text-decoration 0.2s ease, font-weight 0.2s ease;
+    transition: font-size 0.2s ease, text-decoration 0.2s ease;
 }
 
 @media (max-width: 768px) {
